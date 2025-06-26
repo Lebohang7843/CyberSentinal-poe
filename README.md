@@ -16,6 +16,9 @@ Cyber Sentinel is an interactive educational Windows Forms application designed 
 Youtube link
 https://youtu.be/q9b0x9RBuok
 
+Github link
+https://github.com/Lebohang7843/CyberSentinal-poe.git
+
 - ⏰ **Reminder System**  
   Set and manage timed reminders to reinforce good cyber habits.
 
