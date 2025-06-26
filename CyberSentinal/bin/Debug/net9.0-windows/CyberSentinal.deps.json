@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CyberSentinal/1.0.0": {
+        "runtime": {
+          "CyberSentinal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CyberSentinal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
